@@ -7,8 +7,8 @@ description: This is a guide on how to get your domain added to Ascella Uploader
 
 ### Step 1
 
-change your nameservers too:
-`adam.ns.cloudflare.com`
+change your nameservers to:  
+`adam.ns.cloudflare.com`  
 `anna.ns.cloudflare.com`
 
 ### Step 2
