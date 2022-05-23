@@ -69,7 +69,7 @@ const config = {
             label: "API",
           },
           {
-            href: "https://github.com/Tricked-dev/ascella",
+            href: "https://github.com/ascellahost",
             label: "GitHub",
             position: "right",
           },
@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/Tricked-dev/ascella",
+                href: "https://github.com/ascellahost",
               },
             ],
           },

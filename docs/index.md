@@ -5,7 +5,7 @@ position: 0
 slug: /
 ---
 
-## Singing up
+## Signing up
 
 see [Singup](./signup.md) to find out how to create a Ascella account and more
 
@@ -17,7 +17,7 @@ see [installing](./installing.md) to find out how to install ascella
 
 This whole website is open-source, so if you see any typos, bad wording, or just
 want to add things you can make a pull request to the repository
-[ascella](https://github.com/tricked-dev/ascella).\
+[ascella](https://github.com/ascellahost).\
 The documentation is in the
-[docs](https://github.com/Tricked-dev/ascella/tree/master/apps/web/src/routes/docs)
+[docs](https://github.com/ascellahost/docs)
 folder.

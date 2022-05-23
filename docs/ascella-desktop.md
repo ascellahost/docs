@@ -5,13 +5,14 @@ description: Ascella Desktop app guide
 
 # Ascella Desktop
 
-- ### [Guide](#guide)
-- ### [Installing](#installing)
-  - [Macos](#macos)
-  - [Linux](#linux)
+- [Ascella Desktop](#ascella-desktop)
+  - [Guide](#guide)
+  - [Installing](#installing)
+    - [Macos](#macos)
+    - [Linux](#linux)
 
 You can download the ascella desktop app from the
-[Ascella Releases](https://github.com/Tricked-dev/ascella/releases) tab.
+[Ascella Releases][releases] tab.
 
 ![Gui Preview](/static/gui.png)
 
@@ -52,7 +53,7 @@ SUBCOMMANDS:
 
 ### Macos
 
-[Download](https://github.com/Tricked-dev/ascella/releases) & unzip the
+[Download][releases] & unzip the
 downloaded file
 
 Place the `ascella` file in your `/bin` folder
@@ -76,7 +77,7 @@ for more info
 
 ### Linux
 
-[Download](https://github.com/Tricked-dev/ascella/releases) & unzip the
+[Download][releases] & unzip the
 downloaded file
 
 Place the `ascella` file in your `/bin` folder
@@ -100,3 +101,6 @@ And rebind your prnt+screen to `ascella area` or whatever you prefer see
 or
 [gnome](https://help.gnome.org/users/gnome-help/stable/keyboard-shortcuts-set.html.en).
 although your probably better of looking through the settings yourself
+
+
+[releases]: https://github.com/ascellahost/desktop/releases
