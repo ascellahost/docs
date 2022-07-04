@@ -7,11 +7,11 @@ slug: /
 
 ## Signing up
 
-see [Singup](./signup.md) to find out how to create a Ascella account and more
+See [Signup](./signup.md) to find out how to create a Ascella account and more
 
-## using ascella
+## Using ascella
 
-see [installing](./installing.md) to find out how to install ascella
+See [Installing](./installing.md) to find out how to install ascella
 
 ### Welcome to the Ascella Uploader documentation.
 
